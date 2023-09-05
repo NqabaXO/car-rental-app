@@ -1,0 +1,15 @@
+export {default as Navbar} from './Navbar';
+export {default as Banner} from './Banner';
+export {default as Footer} from './Footer';
+export {default as Article} from './Article';
+export {default as BookBanner} from './BookBanner';
+export {default as OurPlans} from './OurPlans';
+export {default as ChooseUs} from './ChooseUs/ChooseUs';
+export {default as CustomFilter} from './Vehicles/CustomFilter';
+export {default as SearchBar} from './Vehicles/SearchBar';
+export {default as SearchManufacturer} from './Vehicles/SearchManufacturer';
+export {default as PickCar} from './CarSelect/PickCar';
+export {default as Download} from './Download';
+export {default as ClientReviews} from './ClientReviews/ClientReviews';
+export {default as CarBox} from './Vehicles/CarBox'
+export {default as Cartrend} from './Vehicles/Cartrend'
