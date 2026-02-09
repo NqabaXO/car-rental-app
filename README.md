@@ -1,8 +1,8 @@
 
 
-# School Website
+# Car Rental Website
 
-Welcome to the Amazon Christian Academy School Website project! This project is designed to provide a modern and engaging online presence for the school, featuring components such as About Us, Glimpse, Contact Information, and more. Built with React and Vite, this application delivers a seamless user experience with modern design aesthetics.
+Welcome to the Car Rental Website project! This project is designed to provide a modern and engaging online presence for the car rentak company, featuring components such as About, Contact Information, and more. Built with React, this application delivers a seamless user experience with modern design aesthetics.
 
 ## 📸 Screenshots
 
@@ -72,6 +72,8 @@ The contact form uses [EmailJS](https://www.emailjs.com/) for sending emails. En
 
 
 ## 📝 Acknowledgements
+
+I would like to thank my family, friends and give honor to God for helping me and carrying me throughout this journey
 
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for designing beautiful interfaces.
